@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 96b77634842f1d441897875568e227a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: Body1
+    100004: eye2
+    100006: eye4
+    100008: Eyes
+    100010: Eyes_rotation
+    100012: Face
+    100014: head
+    100016: Head_front_rotation
+    100018: Head_side_rotation
+    100020: head_top
+    100022: imagePlane1
+    100024: imagePlane2
+    100026: L_arm
+    100028: L_bovenarm
+    100030: L_bovenbeen
+    100032: L_brow_controller
+    100034: L_hand
+    100036: L_hand1
+    100038: L_leg
+    100040: L_toe
+    100042: L_voet
+    100044: Left_ankle
+    100046: Left_brow
+    100048: Left_elbow
+    100050: Left_feet
+    100052: Left_fingers
+    100054: Left_hak
+    100056: Left_hand
+    100058: Left_hip
+    100060: Left_knee
+    100062: Left_shoulder
+    100064: Left_thumb
+    100066: Left_toe
+    100068: Left_top
+    100070: Left_top 1
+    100072: Left_wrist
+    100074: Mario_body
+    100076: //RootNode
+    100078: Mustache
+    100080: Mustache_controller
+    100082: neck
+    100084: Pelvis
+    100086: R_arm
+    100088: R_bovenarm
+    100090: R_bovenbeen
+    100092: R_brow_controller
+    100094: R_hand
+    100096: R_hand1
+    100098: R_leg
+    100100: R_toe
+    100102: R_voet
+    100104: Right_ankle
+    100106: Right_brow
+    100108: Right_elbow
+    100110: Right_feet
+    100112: Right_fingers
+    100114: Right_hak
+    100116: Right_hand
+    100118: Right_hip
+    100120: Right_knee
+    100122: Right_shoulder
+    100124: Right_thumb
+    100126: Right_toe
+    100128: Right_top
+    100130: Right_top 1
+    100132: Right_wrist
+    100134: rug
+    100136: spine
+    100138: Torso
+    100140: torso
+    100142: Left_brow1
+    400000: back
+    400002: Body1
+    400004: eye2
+    400006: eye4
+    400008: Eyes
+    400010: Eyes_rotation
+    400012: Face
+    400014: head
+    400016: Head_front_rotation
+    400018: Head_side_rotation
+    400020: head_top
+    400022: imagePlane1
+    400024: imagePlane2
+    400026: L_arm
+    400028: L_bovenarm
+    400030: L_bovenbeen
+    400032: L_brow_controller
+    400034: L_hand
+    400036: L_hand1
+    400038: L_leg
+    400040: L_toe
+    400042: L_voet
+    400044: Left_ankle
+    400046: Left_brow
+    400048: Left_elbow
+    400050: Left_feet
+    400052: Left_fingers
+    400054: Left_hak
+    400056: Left_hand
+    400058: Left_hip
+    400060: Left_knee
+    400062: Left_shoulder
+    400064: Left_thumb
+    400066: Left_toe
+    400068: Left_top
+    400070: Left_top 1
+    400072: Left_wrist
+    400074: Mario_body
+    400076: //RootNode
+    400078: Mustache
+    400080: Mustache_controller
+    400082: neck
+    400084: Pelvis
+    400086: R_arm
+    400088: R_bovenarm
+    400090: R_bovenbeen
+    400092: R_brow_controller
+    400094: R_hand
+    400096: R_hand1
+    400098: R_leg
+    400100: R_toe
+    400102: R_voet
+    400104: Right_ankle
+    400106: Right_brow
+    400108: Right_elbow
+    400110: Right_feet
+    400112: Right_fingers
+    400114: Right_hak
+    400116: Right_hand
+    400118: Right_hip
+    400120: Right_knee
+    400122: Right_shoulder
+    400124: Right_thumb
+    400126: Right_toe
+    400128: Right_top
+    400130: Right_top 1
+    400132: Right_wrist
+    400134: rug
+    400136: spine
+    400138: Torso
+    400140: torso
+    400142: Left_brow1
+    2100000: lambert1
+    2100002: lambert3
+    2300000: eye2
+    2300002: eye4
+    2300004: Left_brow
+    2300006: Mustache
+    2300008: Right_brow
+    2300010: Left_brow1
+    3300000: eye2
+    3300002: eye4
+    3300004: Left_brow
+    3300006: Mustache
+    3300008: Right_brow
+    3300010: Left_brow1
+    4300000: Mario_body
+    4300002: eye4
+    4300004: eye2
+    4300006: Mustache
+    4300008: Right_brow
+    4300010: Left_brow
+    4300012: Left_brow1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mario_body
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
